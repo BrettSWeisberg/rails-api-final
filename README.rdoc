@@ -1,8 +1,7 @@
 Project Name: rails-api-final
 
 
-Project Overview:
--This app is the API backend for a this React app. (https://github.com/BrettSWeisberg/apt-site-react-client)
+Project Overview: This app is the API backend for a this React app. (https://github.com/BrettSWeisberg/apt-site-react-client)
 
 Installation:
 1. Fork and clone the repo
