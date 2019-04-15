@@ -5,9 +5,9 @@
 
 ## Installation:
 1. Fork and clone the repo
-2. In the terminal type 'rails s -p 3001'
-3. rake db:migrate
-4. rake db:seed
+2. In the terminal type `rails s -p 3001`
+3. `rake db:migrate`
+4. `rake db:seed`
 5. rails s
 
 ## Tests:
