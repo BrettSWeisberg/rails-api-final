@@ -10,7 +10,6 @@
 4. `rake db:seed`
 5. `rails s -p 3001`
 
-
 ## Tests:
 There are currently no tests within the repo. All testing was done in the browser.
 
