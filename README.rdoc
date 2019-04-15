@@ -1,14 +1,15 @@
-## Project Name: final-rails
+## Project Name: rails-api-final
 
 ## Project Overview:
--This app is the API back-end for a React app.
+-This app is the API backend for a this [React app](https://github.com/BrettSWeisberg/apt-site-react-client).
 
 ## Installation:
 1. Fork and clone the repo
-2. In the terminal type `rails s -p 3001`
+2. `bundle install`
 3. `rake db:migrate`
 4. `rake db:seed`
-5. rails s
+5. `rails s -p 3001`
+
 
 ## Tests:
 There are currently no tests within the repo. All testing was done in the browser.
